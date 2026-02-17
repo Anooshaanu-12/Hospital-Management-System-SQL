@@ -73,29 +73,26 @@ SELECT * FROM patients;
 SELECT * FROM appointment_details;
 ```
 
-🎯 Learning Outcomes
+---
 
-->Through the development of this project, I gained practical experience in:
+## 🎯 Learning Outcomes
 
-->Designing a normalized relational database schema
+Through the development of this project, I gained practical experience in:
 
-->Implementing Primary Keys and Foreign Key constraints
+- Designing a normalized relational database schema
+- Implementing Primary Keys and Foreign Key constraints
+- Maintaining data integrity using cascading rules
+- Writing complex SQL queries using JOIN operations
+- Creating indexes for performance optimization
+- Creating database views for simplified data retrieval
+- Understanding real-world database design for healthcare systems
+- Managing version control using Git and GitHub
 
-->Maintaining data integrity using cascading rules
+---
 
-->Writing complex SQL queries using JOIN operations
+## 👩‍💻 Developed By
 
-->Creating indexes for performance optimization
-
-->Creating database views for simplified data retrieval
-
-->Understanding real-world database design for healthcare systems
-
-->Managing version control using Git and GitHub
-
-👩‍💻 Developed By
-
-K.Anoosha
-Final Year B.Tech Student
-Passionate about Database Management Systems, SQL, and Backend Development
+K. Anoosha  
+Final Year B.Tech Student  
+Passionate about Database Management Systems, SQL, and Backend Development  
 Aspiring Software Engineer

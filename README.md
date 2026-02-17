@@ -71,6 +71,7 @@ Example:
 ```sql
 SELECT * FROM patients;
 SELECT * FROM appointment_details;
+```
 
 🎯 Learning Outcomes
 
